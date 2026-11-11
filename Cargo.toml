@@ -5734,6 +5734,14 @@ path = "examples/ui/widgets/feathers_gallery.rs"
 doc-scrape-examples = true
 required-features = ["bevy_feathers"]
 
+
+[[example]]
+name = "feathers_colors"
+path = "examples/ui/widgets/feathers_colors.rs"
+doc-scrape-examples = true
+required-features = ["bevy_feathers"]
+
+
 [package.metadata.example.feathers_gallery]
 name = "Feathers Widgets"
 description = "Gallery of Feathers Widgets"
